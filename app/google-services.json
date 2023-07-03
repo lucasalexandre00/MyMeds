@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273852429339",
+    "project_id": "mymedsfirebase",
+    "storage_bucket": "mymedsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273852429339:android:4a4e400d228b6de24134be",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.mymeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273852429339-vj0uiek9itofgbv9vktut2tvgcql67lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXpNlzKAjPYcaFdMbFL6DduiscWRjOtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273852429339-vj0uiek9itofgbv9vktut2tvgcql67lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
